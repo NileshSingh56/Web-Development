@@ -4,7 +4,7 @@ A collection of web development practice projects, assignments, and mini-project
 
 ## 📁 Folder Structure
 
-- **akanksha.html, index.html, inheritance_demo.html, practice.html, PracticeQs.html**  
+- ** index.html, inheritance_demo.html, practice.html, PracticeQs.html**  
   Standalone HTML files for various practice exercises.
 
 - **Bootstrap/**  
